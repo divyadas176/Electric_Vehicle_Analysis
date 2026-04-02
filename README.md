@@ -55,8 +55,8 @@ To guide this analysis, the project focused on answering three core research que
 ---
 
 ### Insights
-- The "Mass-Market" Sweet Spot: While luxury EVs exist, the German market is dominated by a high-density "Value Cluster" priced between €40,000 and €70,000. This suggests that manufacturers are prioritizing mid-range affordability for mass adoption.
-- Impact of Outliers: Initial analysis was heavily skewed by luxury models (over €115,000). Removing these outliers revealed a much more consistent and reliable $R = 0.74$ correlation between Range and Price for the average consumer.
+- The "Mass-Market" Sweet Spot: While luxury EVs exist, the German market is dominated by a high-density "Value Cluster" priced between 40,000 euros and 70,000 euros. This suggests that manufacturers are prioritizing mid-range affordability for mass adoption.
+- Impact of Outliers: Initial analysis was heavily skewed by luxury models (over 115,000 euros). Removing these outliers revealed a much more consistent and reliable $R = 0.74$ correlation between Range and Price for the average consumer.
 - Charging Efficiency vs. Size: Battery size acts as a technical enabler for speed, but a "vertical surge" at the 75–85 kWh mark proves that superior engineering (like 800V architecture) allows some mid-sized batteries to outcharge larger, more expensive ones.
 - The Performance Premium: There is a clear "Luxury Ceiling" where price increases exponentially not for range, but for acceleration (0–100 km/h) and brand prestige, indicating that speed remains a primary differentiator for high-end models.
 - Hardware Bottlenecks: Correlation heatmaps confirmed that fast-charging speeds are physically tied to battery capacity (kWh), identifying ultra-fast charging as a "hardware-locked" premium feature in the current market.  
